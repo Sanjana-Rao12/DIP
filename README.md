@@ -49,4 +49,5 @@ The frontend was developed using basic HTML, CSS, and JavaScript integrated with
 3. Display of the predicted weather condition on the same page.
 
 ## Authors
-Sanjana Rao Ponaganti, Poojitha Reddy Bommu, Harshini Nimmala,
+Sanjana Rao Ponaganti, Poojitha Reddy Bommu, Harshini Nimmala,Likhitha Reddy Kesara , Aditya Nidadavolu , Suguna Chandana Sibbena
+
