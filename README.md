@@ -10,10 +10,10 @@ EDS6397 - Digital Image Processing - Group 9 - Weather Prediction Using images d
 This project leverages image datasets and advanced machine learning techniques to predict weather conditions. By analyzing visual cues from images, such as cloud patterns, lighting, and other features, the system predicts weather categories with high accuracy. 
 
 ### Technologies Used:
-Python: Core programming language
-\n TensorFlow/Keras: Deep learning framework
-OpenCV: Image preprocessing
-Matplotlib: Data visualization
+1. Python: Core programming language
+2. TensorFlow/Keras: Deep learning framework
+3. OpenCV: Image preprocessing
+4. Matplotlib: Data visualization
 
 ## Flask application
 
