@@ -28,7 +28,7 @@ We began with an initial dataset named DIP Final, which was created by combining
 After preprocessing, the data was split into training, validation, and testing subsets, resulting in a structured dataset saved as Final_data. During pre processing steps, for every run new folders are created, before beginning the model building you can use the final dataset named as "Final_data"
 
 #### Model Implementation:
-The processed data from Final_data was then utilized for model training, validation, and evaluation. This ensured a streamlined and effective workflow for building and testing our machine learning models.
+The processed data from Final_data was then utilized for model training, validation, and evaluation. This ensured a streamlined and effective workflow for building and testing our machine learning models. The complete code is divided into 2 files, DIP_GROUP5_PREPROCESSING.ipynb has comple preproceesing steps performed on teh dataset and it gives a new folder of the cleaned dataset. 
 
 ### Technologies Used:
 1. Python: Core programming language
