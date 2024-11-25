@@ -18,7 +18,7 @@ The datasets used are:
 2. [Weather Image Recognition]((https://www.kaggle.com/datasets/jehanbhathena/weather-dataset))  
    This dataset provides additional weather categories with high-quality images with other classes as fogsmog,rain,snow,lighting,sandstorm.
 
-###Data Workflow
+### Data Workflow
 For the implementation of our weather prediction project, we followed a structured workflow to handle and prepare the dataset:(both the datasets zip files are attached)
 
 Initial Dataset:
