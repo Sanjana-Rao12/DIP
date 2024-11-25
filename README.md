@@ -21,13 +21,13 @@ The datasets used are:
 ### Data Workflow
 For the implementation of our weather prediction project, we followed a structured workflow to handle and prepare the dataset:(both the datasets zip files are attached)
 
-Initial Dataset:
+#### Initial Dataset:
 We began with an initial dataset named DIP Final, which was created by combining and preprocessing images from two publicly available datasets mentioned above. Relevant weather classes, such as sunny, cloudy, rainy, and snowy, were carefully selected and merged into a unified structure. 
 
-Data Splitting:
+#### Data Splitting:
 After preprocessing, the data was split into training, validation, and testing subsets, resulting in a structured dataset saved as Final_data. During pre processing steps, for every run new folders are created, before beginning the model building you can use the final dataset named as "Final_data"
 
-Model Implementation:
+#### Model Implementation:
 The processed data from Final_data was then utilized for model training, validation, and evaluation. This ensured a streamlined and effective workflow for building and testing our machine learning models.
 
 ### Technologies Used:
