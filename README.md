@@ -1,2 +1,2 @@
-# DIP
-DIP Semester Project
+# Digital Image Procesisng 
+DIP Project : Group-9
