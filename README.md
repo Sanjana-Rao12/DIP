@@ -11,7 +11,7 @@ This project leverages image datasets and advanced machine learning techniques t
 
 ### Technologies Used:
 Python: Core programming language
-TensorFlow/Keras: Deep learning framework
+\n TensorFlow/Keras: Deep learning framework
 OpenCV: Image preprocessing
 Matplotlib: Data visualization
 
