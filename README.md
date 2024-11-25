@@ -40,7 +40,7 @@ The processed data from Final_data was then utilized for model training, validat
 The backend of the application is powered by Flask, which serves the following purposes:
 1. Loading the pre-trained weather prediction model.
 2. Accepting image input from the user.
-3. Running the model to predict the weather condition.
+3. Running the model to predict the weather condition ( Because of the memory issue we are not able to upload the models folder in github. so we have created a document which contains the models link in it and uploaded the document in the github)
 4. Returning the prediction result as a response.
 
 The frontend was developed using basic HTML, CSS, and JavaScript integrated with Flask. It provides:
