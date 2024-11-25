@@ -12,10 +12,10 @@ This project leverages image datasets and advanced machine learning techniques t
 ### Dataset
 This project combines images from two publicly available datasets to create a unified dataset for weather classification. We carefully selected relevant weather classes from both datasets and merged them to enhance the diversity and robustness of the training data.
 The datasets used are: 
-1. [Multi-class Weather Dataset]((https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset))  
+1. [Multi-class Weather Dataset((https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset))  
    This dataset contains images of various weather conditions, including shine & sunrise,rain.
 
-2. [Weather Image Recognition]((https://www.kaggle.com/datasets/jehanbhathena/weather-dataset))  
+2. [Weather Image Recognition((https://www.kaggle.com/datasets/jehanbhathena/weather-dataset))  
    This dataset provides additional weather categories with high-quality images with other classes as fogsmog,rain,snow,lighting,sandstorm.
 
 ### Data Workflow
